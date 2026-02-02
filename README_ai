@@ -1,0 +1,40 @@
+# Laravel AI Code Explainer Tool
+
+Build a web-based or CLI tool that takes a code snippet as input and outputs a plain-English explanation of what the code does.
+
+---
+
+## Features
+
+- **Input Code Snippet** — Accepts code from users via web UI or CLI.
+- **Natural Language Explanation** — Uses AI to explain code logic in plain English.
+
+---
+
+## Tech Stack
+
+- **Backend:** Laravel (PHP framework)
+- **AI Model Providers:** OpenRouter (configurable)
+- **Frontend:** Blade
+- **CLI:** Artisan commands
+
+---
+
+## Getting Started
+
+### Requirements
+
+Make sure you have:
+
+- PHP 8.1+ installed
+- Laravel 12
+- An AI API key (e.g., OpenAI/OpenRouter)
+
+---
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/tusssshar/laravel_ai_project.git
+   cd laravel_ai_project
